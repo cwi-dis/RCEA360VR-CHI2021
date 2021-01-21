@@ -4,7 +4,16 @@ CHI 2021 paper (RCEA-360VR) source code for our (a) Viewport-dependent annotatio
 
 README showing video results and explanation of source code will be finalized as soon as possible!
 
+---
+
+Preprint (.pdf): [https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf](https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf)
+
+30s video preview:
+
+[![30s video preview](https://abdoelali.com/assets/rcea360vr_thumbnail.png)](https://www.youtube.com/watch?v=dSeCyH6OuIc "CHI 2021 RCEA-360VR")
+
 &nbsp;
+
 
 **Please cite our paper in any published work that uses any of these resources.**
 
