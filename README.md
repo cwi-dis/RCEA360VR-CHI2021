@@ -10,15 +10,19 @@ Repository contains:
 
 *[Explanation of source code will be finalized soon!]*
 
----
+Example results for our viewport-dependent label fusion method:
+![Example viewport-dependent V-A overlay videos](video_results/video_examples/example_VD_labelled_vids.gif)
 
-Preprint: [chi2021_rcea360VR_preprint.pdf](preprint/chi2021_rcea360VR_preprint.pdf)
+## Preprint + Video Preview
+
+Preprint (.pdf) here: [chi2021_rcea360VR_preprint](preprint/chi2021_rcea360VR_preprint.pdf)
 
 30s video preview (on YouTube):
 
 [![30s video preview](https://abdoelali.com/assets/rcea360vr_thumbnail.png)](https://www.youtube.com/watch?v=dSeCyH6OuIc "CHI 2021 RCEA-360VR")
 
----
+
+## Citing this paper or code
 
 **Please cite our paper in any published work that uses any of these resources.**
 
