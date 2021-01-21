@@ -12,7 +12,7 @@ Repository contains:
 
 ---
 
-Preprint (.pdf): [https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf](https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf)
+Preprint: [chi2021_rcea360VR_preprint.pdf](preprint/chi2021_rcea360VR_preprint.pdf)
 
 30s video preview (on YouTube):
 
