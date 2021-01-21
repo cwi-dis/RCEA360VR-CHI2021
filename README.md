@@ -14,7 +14,7 @@ Repository contains:
 
 Preprint (.pdf): [https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf](https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf)
 
-30s video preview:
+30s video preview (on YouTube):
 
 [![30s video preview](https://abdoelali.com/assets/rcea360vr_thumbnail.png)](https://www.youtube.com/watch?v=dSeCyH6OuIc "CHI 2021 RCEA-360VR")
 
