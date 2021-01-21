@@ -1,8 +1,14 @@
 # CHI 2021 - RCEA-360VR source code
 
-CHI 2021 paper (RCEA-360VR) source code for our (a) Viewport-dependent annotation fusion method (b) Viewport-based fine-grained V-A video overlay generator
+Source code for CHI 2021 paper:
+>*RCEA-360VR: Real-time, Continuous Emotion Annotation in 360° VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels*
 
-README showing video results and explanation of source code will be finalized as soon as possible!
+Repository contains:
+
+1. [Viewport-dependent annotation fusion method](source)
+2. [Viewport-based fine-grained V-A video overlay generator + example videos](video_results)
+
+*[Explanation of source code will be finalized soon!]*
 
 ---
 
@@ -12,8 +18,7 @@ Preprint (.pdf): [https://abdoelali.com/pdfs/chi2021_rcea360vr_preprint.pdf](htt
 
 [![30s video preview](https://abdoelali.com/assets/rcea360vr_thumbnail.png)](https://www.youtube.com/watch?v=dSeCyH6OuIc "CHI 2021 RCEA-360VR")
 
-&nbsp;
-
+---
 
 **Please cite our paper in any published work that uses any of these resources.**
 
